@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+  # frozen_string_literal: true
 
 # The file order to complete this lesson:
 
@@ -37,3 +37,4 @@ RSpec.shared_examples 'shared method name' do
     end
   end
 end
+
